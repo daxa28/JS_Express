@@ -1,4 +1,4 @@
-# JS_jQuery
+# JS_ExpressJS
 
 ### Статический сайт с использованием Express JS и REST API приложение.
 
